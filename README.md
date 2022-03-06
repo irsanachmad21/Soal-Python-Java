@@ -1,4 +1,4 @@
-# Soal_Python
+# Soal python/java
 ini adalah codingan dari soal-soal python.
 
 pertanyaan yang ada di dalam soal :
