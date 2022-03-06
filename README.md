@@ -1,5 +1,4 @@
-# Soal python/java
-ini adalah codingan dari soal-soal python.
+# Soal python/java.
 
 pertanyaan yang ada di dalam soal :
 1. menghitung luas persegi panjang
